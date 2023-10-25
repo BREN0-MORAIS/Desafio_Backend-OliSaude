@@ -1,0 +1,4 @@
+https://alexalvess.medium.com/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686
+
+Domain
+	FluentValidation.AspNetCore -> Este pacote serve para realizar a validação das entidades. No caso, utilizar-se-á a declaração AbstractValidator na declaração da interface para os serviços.
