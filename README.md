@@ -65,17 +65,16 @@ abaixo
   ├── 📁 Entities
   ├── 📁 Interfaces
 📁 OliSaude.Application
-  ├── 📁 Interfaces
-  ├── 📁 Interfaces
+  ├── 📁 Pages
 📁 OliSaude.Infra.CrossCutting
-  ├── 📁 Entities
-  ├── 📁 Interfaces
+  ├── 
 📁 OliSaude.Infra.Data
-  ├── 📁 Entities
-  ├── 📁 Interfaces
+  ├── 📁 Context
+  ├── 📁 Mapping
+  ├── 📁 Repository
 📁 OliSaude.Service
-  ├── 📁 Entities
-  ├── 📁 Interfaces
+  ├── 📁 Services
+  ├── 📁 Validators
 
 ```
 # 🔧 Instalação
